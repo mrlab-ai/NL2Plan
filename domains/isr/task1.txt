@@ -1,0 +1,12 @@
+The current graph has the following neighbors:
+- (1,2)
+- (2,3)
+- (3,4)
+- (4,5)
+- (5,6)
+- (6,7)
+- (7,8)
+- (7,9)
+- (9,5)
+
+And the initial independent set is (4,6,9). Transform it to (3,5,7)

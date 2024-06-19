@@ -1,0 +1,6 @@
+This is an example plan which would solve task 1. Providing these is not necessary to use NL2Plan.
+
+1. Go to side_table_1
+2. Put down mug_1
+3. Turn off humidifier_1
+4. Turn on lamp_1

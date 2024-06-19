@@ -1,0 +1,5 @@
+openai>=1.10.0
+retry>=0.9.2
+addict>=2.4.0
+tiktoken>=0.6.0
+requests>=2.31.0

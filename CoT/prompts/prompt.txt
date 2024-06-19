@@ -1,0 +1,6 @@
+Your job is to provide me with a plan that would solve the following task. Specify each action you wish to take clearly.
+
+The task:
+{domain_task_desc}
+
+Let's think step by step.

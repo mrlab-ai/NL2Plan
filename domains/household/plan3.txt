@@ -1,0 +1,14 @@
+This is an example plan which would solve task 1. Providing these is not necessary to use NL2Plan.
+
+1. Put down mug_1 in drawer_1
+2. Go to cabinet_2
+3. Open cabinet_2
+4. Take pizzabox_1
+5. Go to dining_table_1
+6. Put pizzabox_1 on dining_table_1
+7. Open pizzabox_1
+8. Pransfer pizza_1 from pizzabox_1 to pan_2
+9. Take pan_2
+10. Go to stove_burner_1
+11. Put pan_2 on stove_burner_1
+12. Heat pizza_1 in pan_2 with stove_burner_1

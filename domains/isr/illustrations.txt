@@ -1,0 +1,61 @@
+These are illustrations of the start and end configurations for task 1 to 3. * designates inclusion in the independent set.
+Providing this is not necessary to use NL2Plan.
+
+
+Task 1 input:
+           6*
+          / \
+1-2-3-4*-5   7-8
+          \ /
+           9*
+
+Task 1 goal:
+           6
+          / \
+1-2-3*-4-5*  7*-8
+          \ /
+           9
+
+
+Task 2 input:
+   A--B--C*-D--E*
+        / \
+       /   \
+F--G*-H--I--J--K*-L
+|  |     |     |  |
+M*-N-----O*----P--Q*
+
+Task 2 goal:
+   A--B--C--D*-E
+        / \
+       /   \
+F*-G--H*-I--J*-K--L*
+|  |     |     |  |
+M--N*----O-----P*-Q
+
+
+Task 3 input:
+A*    B--C*-D
+|     |     |
+E     F*    G
+|     |     |
+H*-I--J--K--L*
+|  |     |  |
+M--N*-O--P*-Q
+|     |     |
+R*    S*    T*
+|     |     |
+U--V*-W     X--Y--Z
+
+Task 3 goal:
+A     B*-C--D*
+|     |     |
+E*    F     G
+|     |     |
+H--I*-J--K*-L
+|  |     |  |
+M*-N--O*-P--Q*
+|     |     |
+R     S     T
+|     |     |
+U*-V--W     X*--Y--Z*
