@@ -163,6 +163,7 @@ def construct_action(
         except Exception as e:
             no_error = False
             error_msg = str(e)
+            error_type = str(e.__class__.__name__)
 
         if no_error or error_type == "all_validation_pass":
             if received_feedback_at is None and feedback is not None:
