@@ -207,3 +207,13 @@ Parts of this repo, most notably the Action Construction step, are based on code
 
 ## Contact
 For questions, issues or feedback, please contact us at `elliot.gestrin@liu.se`.
+
+## Cite Us
+```
+@inproceedings{gestrin-et-al-icaps2024wshaxp,
+  author       = {Elliot Gestrin and Marco Kuhlmann and Jendrik Seipp},
+  title        = {{NL2Plan}: Robust {LLM}-Driven Planning from Minimal Text Descriptions},
+  booktitle    = {ICAPS 2024 Workshop on Human-Aware and Explainable Planning (HAXP)},
+  year         = 2024,
+}
+```
